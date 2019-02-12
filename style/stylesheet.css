@@ -1,0 +1,16 @@
+<!--
+a { text-decoration: none; }
+a:hover { text-decoration: none; color: #f2963f; }
+a.blue { color: #324F94 }
+a.black { color: #000000 }
+
+p.text { font-size: 8pt; font-family: Tahoma, Verdana, Arial; color: #324F94 }
+
+p.table { color: #324F94; font-size: 8pt }
+p.table { font-family: Tahoma, Verdana, Arial; }
+table.border { border: 1px solid #324F94; padding: 0px }
+table.background { background: #324F94 }
+td.border { border: 1px solid #324F94; padding: 0px }
+td.border_indent { border: 1px solid #324F94; padding: 20px }
+td.border_indent_small { border: 1px solid #324F94; padding: 5px }			
+-->
